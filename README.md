@@ -59,6 +59,8 @@
 <br />
 <br />
 
+<img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icon=true&hide_border=true">
+
 [website]: https://github.com/MitanshGor
 [whatsapp]: whatsapp
 [mail]:mail
