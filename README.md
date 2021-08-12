@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 -  🔎 I'm currentl open for internships  and jobs
 - 👯 I’m looking to collaborate webDEsigners and Developers
-- 🥅 2021 Goals: Become A full Stack developer
+- 🥅 2021 Goals: Become A full Stack developer | Embrace my Soft-Skills
 - ⚡ Fun fact: I love to draw and playing Cricket and Gyming
 
 ### Connect with me:
