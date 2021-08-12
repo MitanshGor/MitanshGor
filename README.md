@@ -28,7 +28,7 @@
 <img align="left" alt="figma Code" width="20px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 
 <img align="left" alt="Spyder Code" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/360px-Spyder_logo.svg.png" />
-<img align="left" alt="Android Studio Code" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+<img align="left" alt="Android Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
 
 
 <br><br>
