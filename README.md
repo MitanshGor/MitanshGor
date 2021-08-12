@@ -61,6 +61,12 @@
 <br><br>
 <img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true">
 
+
+<br><br><br><Br>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MitanshGor)](https://github.com/MitnashGor/github-readme-stats)
+
+
 [website]: https://github.com/MitanshGor
 [whatsapp]: whatsapp
 [mail]:mail
