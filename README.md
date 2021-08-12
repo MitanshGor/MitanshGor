@@ -44,7 +44,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br><br>
-<img align="left" alt="Node.js" width="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
+<img align="left" alt="Node.js" width="36px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
 
 
 
