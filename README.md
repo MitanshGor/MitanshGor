@@ -1,4 +1,4 @@
-### Hi there, I'm Mitansh Gor - [website] 👋
+### Hi there, I'm Mitansh Gor  👋
 
 
 
