@@ -56,9 +56,9 @@
 <img align="left" alt="Git" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhpjl7vnPFMCi7MH2WfMfJGeL7_x2B_zH48osZAZBCqP9i-nrPn1qQAAhjyoA6sF2eTo&usqp=CAU" />
 <img align="left" alt="Git" width="26px" src="https://symbols-electrical.getvecta.com/stencil_261/16_google-firebase.febfc9bdc0.png" />
 
-<br />
-<br />
-
+<br>
+<br >
+<br><br>
 <img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true">
 
 [website]: https://github.com/MitanshGor
