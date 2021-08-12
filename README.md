@@ -1,11 +1,11 @@
 ### Hi there, I'm Mitansh Gor - [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 
 ## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Mentor, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
+-  🔎 I'm currentl open for internships  and jobs
 - 👯 I’m looking to collaborate webDEsigners and Developers
 - 🥅 2021 Goals: Become A full Stack developer
 - ⚡ Fun fact: I love to draw and playing Cricket and Gyming
