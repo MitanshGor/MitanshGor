@@ -85,10 +85,6 @@
 
 
 
-📊 **This week I spent my time on**
-
-<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=MitanshGor&hide_title=true&hide_border=true&langs_count=5&theme=radical" alt="">
-
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
