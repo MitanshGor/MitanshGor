@@ -1,6 +1,6 @@
 ### Hi there, I'm Mitansh Gor  👋
 
-
+---
 
 ## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Mentor, and Teacher!!
 
@@ -10,6 +10,8 @@
 - 🥅 2021 Goals: Become A full Stack developer | Embrace my Soft-Skills
 - ⚡ Fun fact: I love to draw and playing Cricket and Gyming
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGvbgXaNnoDuf3QsTpFsKUQQjuRqNDwNEDNMnJCbvuuylH7H7051sSW0W56HRBAOosxA&usqp=CAU" />][website]
@@ -18,7 +20,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][mail]
 
 
-<br><br>
+<br>
+---
+<br>
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -58,6 +62,7 @@
 
 <br>
 <br >
+---
 <br><br>
 <img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true">
 
@@ -65,7 +70,6 @@
 <br><br><br><Br>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MitanshGor)](https://github.com/MitanshGor/MitanshGor)
 
 
 
