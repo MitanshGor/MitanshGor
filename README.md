@@ -24,16 +24,11 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png"   alt="eclipse"/>
 <img align="left" alt="Postman" width="56px" src="https://miro.medium.com/max/1838/1*ap0NRizcKwuX5gfzKqEk6Q.png" />
-
 <img align="left" alt="figma Code" width="20px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
-
 <img align="left" alt="Spyder Code" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/360px-Spyder_logo.svg.png" />
 <img align="left" alt="Android Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
 
-
 <br><br>
-
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -44,8 +39,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />
 
+<br><br>
 
-<br><br><BR>
 <img align="left" alt="PYTHON" width="56px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
 <img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="SpringToolSuit" width="36px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/>
@@ -53,9 +48,7 @@
 <img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-
 <BR><BR>
-
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
