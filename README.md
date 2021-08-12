@@ -64,9 +64,10 @@
 <img align="left" alt="Git" width="26px" src="https://symbols-electrical.getvecta.com/stencil_261/16_google-firebase.febfc9bdc0.png" />
 
 <br>
-<br >
+<br>
+
 ---
-<br><br>
+
 <img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true">
 
 
