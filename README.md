@@ -44,14 +44,14 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br><br>
-<img align="left" alt="Node.js" width="36px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
+<img align="left" alt="Node.js" width="56px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
 
 
 
 
 
 <img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="SpringToolSuit" width="36px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/>
+<img align="left" alt="SpringToolSuit" width="26px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/>
 
 
 
