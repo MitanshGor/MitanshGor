@@ -30,7 +30,7 @@
 
 <img align="left" alt="Visual Studio Code" width="20px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/360px-Spyder_logo.svg.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/360px-Spyder_logo.svg.png" />
 
 
 
