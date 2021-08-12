@@ -64,7 +64,9 @@
 
 <br><br><br><Br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MitanshGor)](https://github.com/MitnashGor/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MitanshGor)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [website]: https://github.com/MitanshGor
