@@ -68,7 +68,7 @@
 
 ---
 
-<img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true">
+<img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true&theme=radical">
 
 
 <br>
@@ -87,7 +87,7 @@
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&theme=radical)
+<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&theme=radical" alt="">
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
