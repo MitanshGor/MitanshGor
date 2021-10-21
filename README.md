@@ -7,7 +7,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
  BLOG-POST-LIST:END -->
 ---
-<a href="https://techrez.io/resume/mitansh-gor">VIEW MY WEB-PORTFOLIO
+<a style='border: 2px solid red;' href="https://techrez.io/resume/mitansh-gor">VIEW MY WEB-PORTFOLIO
 <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png" />
  </a>
 <br><br>
