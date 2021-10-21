@@ -7,8 +7,11 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
  BLOG-POST-LIST:END -->
 ---
+<a href="https://techrez.io/resume/mitansh-gor">
+<img align="left" alt="Git" width="26px" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png" />
+ </a>
 
-## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Mentor, and Teacher!!
+## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Java Developer, Api Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 -  🔎 I'm currentl open for internships  and jobs
