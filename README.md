@@ -8,7 +8,7 @@
  BLOG-POST-LIST:END -->
 ---
 <a href="https://techrez.io/resume/mitansh-gor">CLICK HERE TO VIEW WEB-PORTFOLIO
-<img align="left" alt="Git" width="26px" src="https://www.clipartmax.com/png/middle/308-3085721_resume-png-clipart-my-resume-icon-png.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png" />
  </a>
 <br><br>
 ## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Java Developer, Api Developer!!
