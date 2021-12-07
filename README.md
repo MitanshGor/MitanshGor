@@ -97,9 +97,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MitanshGor&theme=github_dark)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MitanshGor&theme=github_dark)
-<br>
-<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MitanshGor&theme=github_dark)
+ <br>
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MitanshGor&theme=github_dark)
 <br><br>
  <details>
