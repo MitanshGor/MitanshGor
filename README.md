@@ -98,12 +98,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MitanshGor&theme=github_dark)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
