@@ -78,7 +78,7 @@
 <br>
 
 ---
-
+ <!-- BLOG-POST-LIST:START -->
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MitanshGor&theme=github_dark)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true&theme=github_dark") -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MitanshGor&theme=github_dark)
@@ -94,6 +94,8 @@
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=MitanshGor&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
+
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://github.com/MitanshGor
 [whatsapp]: whatsapp
