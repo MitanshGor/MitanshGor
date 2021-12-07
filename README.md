@@ -72,7 +72,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhpjl7vnPFMCi7MH2WfMfJGeL7_x2B_zH48osZAZBCqP9i-nrPn1qQAAhjyoA6sF2eTo&usqp=CAU" />
-<img align="left" alt="Git" width="26px" src="https://symbols-electrical.getvecta.com/stencil_261/16_google-firebase.febfc9bdc0.png" />
+<img align="left" alt="Git" width="26px" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" />
 
 <br>
 <br>
@@ -109,8 +109,6 @@
 
 </details>
 
-
-<img alt='analytics' src='https://profile-counter.glitch.me/MitanshGor/count.svg' width='0px'>
 
 
 [website]: https://github.com/MitanshGor
