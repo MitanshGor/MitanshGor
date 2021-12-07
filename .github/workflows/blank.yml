@@ -1,16 +1,19 @@
-name: Waka Readme
+name: GitHub-Profile-Summary-Cards
 
 on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
   workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  build:
     runs-on: ubuntu-latest
+    name: generate
+
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v2
+      - uses: MitanshGor/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          USERNAME: ${{ github.repository_owner }}
