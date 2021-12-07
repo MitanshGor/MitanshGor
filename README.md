@@ -79,7 +79,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true&theme=radical")
+![](https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true&theme=github_dark")
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MitanshGor&theme=github_dark)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MitanshGor&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MitanshGor&theme=github_dark)
