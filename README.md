@@ -101,6 +101,9 @@
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MitanshGor&theme=github_dark)
  <br><br>
+ 
+ <br><br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MitanshGor&theme=github_dark)
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
