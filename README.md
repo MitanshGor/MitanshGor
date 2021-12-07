@@ -110,7 +110,7 @@
 </details>
 
 
-<img alt='analytics' src='https://profile-counter.glitch.me/mitanshgor/count.svg' width='0px'>
+<img alt='analytics' src='https://profile-counter.glitch.me/MitanshGor/count.svg' width='0px'>
 
 
 [website]: https://github.com/MitanshGor
