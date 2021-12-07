@@ -7,10 +7,15 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
  BLOG-POST-LIST:END -->
 ---
-<a style="border: 2px solid red" href="https://techrez.io/resume/mitansh-gor">VIEW MY WEB-PORTFOLIO
-<img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png" />
+<a style="border: 2px solid red" href="https://techrez.io/resume/mitansh-gor">View My TechRez Portfolio
+<img align="left" alt="Techrez" width="26px" src="https://techrez.io/images/tech_rez.png" />
+ </a>
+<br>
+<a style="border: 2px solid red" href="https://dev.page/mitanshgor?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">VIEW MY WebDev Portfolio
+<img align="left" alt="WebDev" width="26px" src="https://dev.page/static/favicons/apple-touch-icon.png" />
  </a>
 <br><br>
+
 ## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Java Developer, Api Developer!!
 
 - 🌱 I’m currently learning everything 🤣
