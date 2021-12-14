@@ -97,9 +97,10 @@
   </a>
  
  <br><br>
- 
- ![](https://MitanshGor.wrapped.run)
+ ![image](https://user-images.githubusercontent.com/76811812/145970827-38f95879-e941-4eb1-9425-7413162a5a63.png)
 
+<!--  ![](https://MitanshGor.wrapped.run)
+ -->
 [website]: https://github.com/MitanshGor
 [whatsapp]: whatsapp
 [mail]:mail
