@@ -12,7 +12,7 @@
 <img align="left" alt="Techrez" width="56px" src="https://techrez.io/images/tech_rez.png" />
  </a>
 <br>
-<a style="border: 2px solid red" href="https://dev.page/mitanshgor?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">VIEW MY WebDev Portfolio
+<a style="border: 2px solid red" href="https://dev.page/mitanshgor?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">View My WebDev Portfolio
 <img align="left" alt="WebDev" width="26px" src="https://dev.page/static/favicons/apple-touch-icon.png" />
  </a>
 <br><br>
