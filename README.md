@@ -213,7 +213,7 @@ Last Edited on: 29/06/2022
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MitanshGor&theme=github_dark)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true&theme=github_dark") -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MitanshGor&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MitanshGor&theme=github_dark)
  <br><br>
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MitanshGor&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MitanshGor&theme=github_dark)
@@ -228,11 +228,11 @@ Last Edited on: 29/06/2022
   </a>
  
  <br><br>
- ![image](https://user-images.githubusercontent.com/76811812/145970827-38f95879-e941-4eb1-9425-7413162a5a63.png)
+ ![image](https://user-images.githubusercontent.com/76811812/145970827-38f95879-e941-4eb1-9425-7413162a5a63.png) -->
 
 <!--  ![](https://MitanshGor.wrapped.run)
  -->
-[website]: https://github.com/MitanshGor
+<!-- [website]: https://github.com/MitanshGor
 [whatsapp]: whatsapp
 [mail]:mail
 [linkedin]:https://www.linkedin.com/in/mitansh-gor-90a6201b3
@@ -241,4 +241,4 @@ Last Edited on: 29/06/2022
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0  -->
