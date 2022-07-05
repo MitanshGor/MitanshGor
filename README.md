@@ -1,17 +1,20 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mitansh Gor</h2>
+### I'm a Freelancer, Web Designer, Full Stack Developer.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mitansh Gor -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Ahmedabad University.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. I’m currently learning everything 🤣\
+🎓 &nbsp;I'm currently pursuing final year of Computer Science and Engineering at the Indus University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
-✍️ &nbsp;In my free time, I pursue Sharing Knowledge to others in various forms [Teaching, Blogs] and Designing as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I pursue Sharing Knowledge to others in various forms [Teaching,Mentoring] and Designing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at gormitansh@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
+⚡ &nbsp;Fun fact: I love playing Cricket, and I am a big Gym freak 💪💪💪.
+
 
 <img alt="Night Coding" src="./assets/select_gif.gif" width='250' height='200' align="right"/>
 
@@ -133,7 +136,7 @@ Last Edited on: 29/06/2022
 
 
 
-### Hi there, I'm Mitansh Gor  👋
+<!-- ### Hi there, I'm Mitansh Gor  👋 -->
 <!-- BLOG-POST-LIST:START 
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -143,22 +146,15 @@ Last Edited on: 29/06/2022
 
  BLOG-POST-LIST:END -->
 ---
-<a style="border: 2px solid red" href="https://techrez.io/resume/mitansh-gor">View My TechRez Portfolio
-<img align="left" alt="Techrez" width="56px" src="https://techrez.io/images/tech_rez.png" />
- </a>
-<br>
-<a style="border: 2px solid red" href="https://dev.page/mitanshgor?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">View My WebDev Portfolio
-<img align="left" alt="WebDev" width="26px" src="https://dev.page/static/favicons/apple-touch-icon.png" />
- </a>
-<br><br>
+<!-- <a style="border: 2px solid red" href="https://techrez.io/resume/mitansh-gor">View My TechRez Portfolio -->
+<!-- <img align="left" alt="Techrez" width="56px" src="https://techrez.io/images/tech_rez.png" /> -->
+<!--  </a> -->
+<!-- <br> -->
+<!-- <a style="border: 2px solid red" href="https://dev.page/mitanshgor?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog">View My WebDev Portfolio -->
+<!-- <img align="left" alt="WebDev" width="26px" src="https://dev.page/static/favicons/apple-touch-icon.png" /> -->
+<!--  </a> -->
+<!-- <br><br> -->
 
-## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Java Developer, Api Developer!!
-
-- 🌱 I’m currently learning everything 🤣
--  🔎 I'm currentl open for internships  and jobs
-- 👯 I’m looking to collaborate webDEsigners and Developers
-- 🥅 2021 Goals: Become A full Stack developer | Embrace my Soft-Skills
-- ⚡ Fun fact: I love to play Cricket and Gyming
 
 ---
 
